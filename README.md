@@ -1,2 +1,2 @@
-#assignments
+# assignments
 python exercise
