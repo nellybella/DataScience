@@ -68,7 +68,7 @@ rental_car_cost(10)
 
 #%%
 def trip_cost(city,days):
-    return rentalcarcost(days) + hotelcost(nights) + plane ride cost(city)
+    return rental_car_cost(days) + hotel_cost(nights) + plane_ride_cost(city)
 
 
     
